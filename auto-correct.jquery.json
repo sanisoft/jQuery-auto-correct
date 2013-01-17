@@ -1,9 +1,9 @@
 {
     "name": "auto-correct",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "title": "jQuery Auto Correct",
     "author": {
-        "name": "Amit Badkas",
+        "name": "Amit Badkas"
     },
     "licenses": [
         {
@@ -28,7 +28,7 @@
     "bugs": "https://github.com/sanisoft/jQuery-auto-correct/issues",
     "maintainers": [
         {
-            "name": "Amit Badkas",
+            "name": "Amit Badkas"
         }
     ]
 }
