@@ -1,0 +1,34 @@
+{
+    "name": "auto-correct",
+    "version": "2.0.0",
+    "title": "jQuery Auto Correct",
+    "author": {
+        "name": "Amit Badkas",
+    },
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/sanisoft/jQuery-auto-correct/blob/master/GPL-LICENSE.txt"
+        },
+        {
+            "type": "MIT",
+            "url": "https://github.com/sanisoft/jQuery-auto-correct/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1.7.2"
+    },
+    "description": "The plugin to auto-correct words in textboxes or textareas as per given configuration like 'teh' to 'the', 'taht' to 'that', 'ur' to 'you are' etc.",
+    "keywords": [
+        "auto-correct"
+    ],
+    "homepage": "https://github.com/sanisoft/jQuery-auto-correct",
+    "docs": "https://github.com/sanisoft/jQuery-auto-correct#readme",
+    "download": "https://github.com/sanisoft/jQuery-auto-correct/archive/master.zip",
+    "bugs": "https://github.com/sanisoft/jQuery-auto-correct/issues",
+    "maintainers": [
+        {
+            "name": "Amit Badkas",
+        }
+    ]
+}
